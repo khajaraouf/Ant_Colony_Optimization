@@ -11,7 +11,7 @@ Ants are social insects. They live in colonies. The behavior of the ants is cont
 
 # Architecture
 
-
+![ant colony optimization](https://github.com/khajaraouf/Ant_Colony_Optimization/assets/70451209/64801d1f-0739-4d87-84cd-e8744773296d)
 
 # Reference Papers
 
